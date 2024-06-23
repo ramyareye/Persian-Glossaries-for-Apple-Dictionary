@@ -3,4 +3,4 @@ Converted version of available Persian-English glossaries for Apple Dictionary a
 
 Open `Dictionary App` -> `Files` > `Open Dictionaries Folder`
 
-`Open Dictionary App` -> `Preferences` > `Select Hmt...` and `hFarsi`
+`Open Dictionary App` -> `Settings` > `Select Hmt...` and `hFarsi`
